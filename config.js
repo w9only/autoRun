@@ -1,5 +1,5 @@
 const config = {
-    corn: "0 */5 * * * *"
+    corn: "0 */5 * * * *",
     tokens: []
 }
 
