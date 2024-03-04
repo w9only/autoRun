@@ -1,6 +1,7 @@
 {
   "name": "e",
   "version": "1.0.0",
+  "repository": "https://github.com/w9only/autoRun",
   "description": "",
   "main": "index.js",
   "scripts": {
